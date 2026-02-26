@@ -4,11 +4,9 @@
 Install with [npm](https://www.npmjs.com/):
 or
 Install with [yarn](https://yarnpkg.com/)
-
 ```sh
 $ npm install --save @vankosoft/agegate-popup
 ```
-
 ```sh
 $ yarn add @vankosoft/agegate-popup
 ```
