@@ -14,6 +14,7 @@ $ yarn add @vankosoft/agegate-popup
 ```
 
 ## Usage
+```javascript
 new Agegate({
     cookie: 'age_gate',
     body: 'Are you 18 or older?',
