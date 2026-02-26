@@ -1,0 +1,27 @@
+{
+  "name": "@vankosoft/agegate-popup",
+  "version": "1.0.0",
+  "description": "jQuery plugin for AgeGate Popup",
+  "main": "agegate-popup.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iatanasov77/agegate-popup.git"
+  },
+  "keywords": [
+    "jquery",
+    "agegate",
+    "popup"
+  ],
+  "author": "iatanasov77",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iatanasov77/agegate-popup/issues"
+  },
+  "homepage": "https://github.com/iatanasov77/agegate-popup#readme",
+  "dependencies": {
+    "js-cookie": "^3.0"
+  }
+}
